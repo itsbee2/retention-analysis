@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f84c088-254e-4b55-a2c9-e3db96a3a590" name="Changes" comment="RFM segmentation (Recency, Frequency, Monetary) to identify at-risk high-value customers" />
+    <list default="true" id="1f84c088-254e-4b55-a2c9-e3db96a3a590" name="Changes" comment="RFM segmentation (Recency, Frequency, Monetary) to identify at-risk high-value customers">
+      <change beforePath="$PROJECT_DIR$/data/olist.db" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
